@@ -1,0 +1,23 @@
+{
+  "name": "preact-material-datatable",
+  "version": "1.0.0",
+  "description": "Preact material datatable",
+  "main": "src/builder.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahidnurrohim/preact-material-datatable.git"
+  },
+  "keywords": [
+    "preact-material-datatable"
+  ],
+  "author": "syahidnurrohim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahidnurrohim/preact-material-datatable/issues"
+  },
+  "homepage": "https://github.com/syahidnurrohim/preact-material-datatable#readme"
+}
